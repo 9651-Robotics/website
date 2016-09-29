@@ -14,10 +14,10 @@
   </head>
   <body>
     <?php include_once "header.php" ?>
-    <div class="section-primary">
+    <div class="section-cover">
       <div class="container text-center">
         <h1>Team 9651 Robotics</h1>
-        <img class="img-responsive header-image hidden-xs" src="img/logo-circle-inverse.png" alt="Team 9651's Logo" />
+        <img class="img-responsive header-image" src="img/logo-circle-inverse.png" alt="Team 9651's Logo" />
         <h3>Upper Canada College's Robotics Club</h3>
       </div>
     </div>
@@ -133,6 +133,6 @@
     <script src="js/google_analytics.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/nav-collapse.js"></script>
+    <script src="js/navbar-transparent.js"></script>
   </body>
 </html>

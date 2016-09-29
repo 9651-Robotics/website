@@ -5,26 +5,25 @@ html {
 body {
     width: 100%;
     height: 100%;
-    padding-top:50px;
 }
 @media(min-width:767px) {
-    .navbar {
-        padding: 20px 0;
-        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        transition: background .5s ease-in-out,padding .5s ease-in-out;
-    }
-
-    .top-nav-collapse {
-        padding: 0;
-    }
-    body{
-      padding-top: 100px;
-    }
+  .navbar-transparent{
+    background: none;
+  }
+  .header-image{
+    max-width: 50%;
+  }
 }
 
 .text-white{
   color:white;
+}
+
+.section-cover{
+  height: 100%;
+  color:white;
+  background-color: #18BC9C;
+  padding: 5rem;
 }
 
 .section-primary{
@@ -38,7 +37,6 @@ body {
 }
 
 .header-image{
-  max-width: 50%;
   margin-left: auto;
   margin-right: auto;
   border-radius: 9000px;
