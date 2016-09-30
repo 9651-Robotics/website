@@ -60,19 +60,19 @@
         <h2 class="text-center">Meet some of our members!</h2>
         <div class="row text-center">
           <div class="col-sm-4">
-            <a href="#">
+            <a href="contact.php">
               <img class="img-responsive img-circle" src="img/matt.png" />
               <h3 class="text-white">Matthew Wang, Club Head</h3>
             </a>
           </div>
           <div class="col-sm-4">
-            <a href="#">
+            <a href="contact.php">
               <img class="img-responsive img-circle" src="img/jack.jpg" />
               <h3 class="text-white">Jack Sarick, Club Head</h3>
             </a>
           </div>
           <div class="col-sm-4">
-            <a href="#">
+            <a href="contact.php">
               <img class="img-responsive img-circle" src="img/john.png" />
               <h3 class="text-white">John Mace, Club Head</h3>
             </a>
@@ -129,10 +129,17 @@
         </div>
       </div>
     </div>
+    <div class="section-secondary">
+      <div class="container text-center">
+        <h2>Learn more</h2>
+        <a class="btn btn-success" href="#">Competitions</a>
+        <a class="btn btn-success" href="#">Horizons</a>
+        <a class="btn btn-success" href="#">Workshops</a>
+      </div>
+    </div>
     <?php include_once "footer.php" ?>
     <script src="js/google_analytics.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/navbar-transparent.js"></script>
   </body>
 </html>

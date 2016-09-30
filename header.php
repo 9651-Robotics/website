@@ -5,7 +5,7 @@
         <span class="sr-only">Toggle navigation</span>
         <span class="fa fa-home text-white"></span>
       </button>
-      <a class="navbar-brand" href="#">9651 Robotics</a>
+      <a class="navbar-brand" href="index.php">9651 Robotics</a>
     </div>
 
     <div class="collapse navbar-collapse" id="navbar-collapse-container">
@@ -13,7 +13,7 @@
         <li><a href="#">About 9651</a></li>
         <li><a href="#">Programs</a></li>
         <li><a href="#">Resources</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="contact.php">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">Member Center</a></li>
