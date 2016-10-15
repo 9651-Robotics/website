@@ -10,9 +10,9 @@
 
     <div class="collapse navbar-collapse" id="navbar-collapse-container">
       <ul class="nav navbar-nav">
-        <li><a href="#">About 9651</a></li>
-        <li><a href="#">Programs</a></li>
-        <li><a href="#">Resources</a></li>
+        <li><a href="about.php">About 9651</a></li>
+        <li><a href="programs.php">Programs</a></li>
+        <li><a href="resources.php">Resources</a></li>
         <li><a href="contact.php">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">

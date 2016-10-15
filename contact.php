@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Team 9651 | UCC Robotics</title>
+    <title>Contact Team 9651 | UCC Robotics</title>
     <meta name="description" content="The official website for VEX Robotics team 9651, and the UCC Robotics Club.">
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -69,6 +69,5 @@
     <script src="js/google_analytics.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/navbar-transparent.js"></script>
   </body>
 </html>

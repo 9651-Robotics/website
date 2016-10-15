@@ -86,42 +86,42 @@
         <div class="row">
           <div class="col-sm-4">
             <div class="hovereffect">
-              <img class="img-responsive" src="img/mbot.jpg" alt="Mbot">
+              <img class="img-responsive" src="img/vex.jpg" alt="Club Members working on building our competition robot.">
               <div class="overlay">
-                <h2>Horizons Robotics</h2>
+                <h2>VEX Robotics</h2>
 		            <p>
-                  At Horizons Robotics, we teach underprivileged students how to build and code their very own robots.
+                  At VEX Robotics, we design awesome robots to compete in VEX robotics competitions.
                 </p>
                 <p>
-                 <a href="#">Learn more.</a>
+                 <a href="programs.php#vex">Learn more.</a>
                 </p>
               </div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="hovereffect">
-              <img class="img-responsive" src="img/mbot.jpg" alt="Mbot">
+              <img class="img-responsive" src="img/mbot.jpg" alt="The mBot, one of the robots we make in the Horizons Robotics program.">
               <div class="overlay">
                 <h2>Horizons Robotics</h2>
 		            <p>
                   At Horizons Robotics, we teach underprivileged students how to build and code their very own robots.
                 </p>
                 <p>
-                 <a href="#">Learn more.</a>
+                 <a href="programs.php#horizons">Learn more.</a>
                 </p>
               </div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="hovereffect">
-              <img class="img-responsive" src="img/mbot.jpg" alt="Mbot">
+              <img class="img-responsive" src="img/computers.jpg" alt="Robotics students doing some coding!">
               <div class="overlay">
-                <h2>Horizons Robotics</h2>
+                <h2>Robotics Workshops</h2>
 		            <p>
-                  At Horizons Robotics, we teach underprivileged students how to build and code their very own robots.
+                  At Robotics Workshops, club members learn a variety of skills, including coding and soldering.
                 </p>
                 <p>
-                 <a href="#">Learn more.</a>
+                 <a href="programs.php#workshops">Learn more.</a>
                 </p>
               </div>
             </div>
@@ -132,9 +132,9 @@
     <div class="section-secondary">
       <div class="container text-center">
         <h2>Learn more</h2>
-        <a class="btn btn-success" href="#">Competitions</a>
-        <a class="btn btn-success" href="#">Horizons</a>
-        <a class="btn btn-success" href="#">Workshops</a>
+        <a class="btn btn-success" href="programs.php#vex">Competitions</a>
+        <a class="btn btn-success" href="programs.php#horizons">Horizons</a>
+        <a class="btn btn-success" href="programs.php#workshops">Workshops</a>
       </div>
     </div>
     <?php include_once "footer.php" ?>
