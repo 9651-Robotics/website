@@ -93,7 +93,7 @@
                   At VEX Robotics, we design awesome robots to compete in VEX robotics competitions.
                 </p>
                 <p>
-                 <a href="#">Learn more.</a>
+                 <a href="programs.php#vex">Learn more.</a>
                 </p>
               </div>
             </div>
@@ -107,7 +107,7 @@
                   At Horizons Robotics, we teach underprivileged students how to build and code their very own robots.
                 </p>
                 <p>
-                 <a href="#">Learn more.</a>
+                 <a href="programs.php#horizons">Learn more.</a>
                 </p>
               </div>
             </div>
@@ -121,7 +121,7 @@
                   At Robotics Workshops, club members learn a variety of skills, including coding and soldering.
                 </p>
                 <p>
-                 <a href="#">Learn more.</a>
+                 <a href="programs.php#workshops">Learn more.</a>
                 </p>
               </div>
             </div>
@@ -132,9 +132,9 @@
     <div class="section-secondary">
       <div class="container text-center">
         <h2>Learn more</h2>
-        <a class="btn btn-success" href="#">Competitions</a>
-        <a class="btn btn-success" href="#">Horizons</a>
-        <a class="btn btn-success" href="#">Workshops</a>
+        <a class="btn btn-success" href="programs.php#vex">Competitions</a>
+        <a class="btn btn-success" href="programs.php#horizons">Horizons</a>
+        <a class="btn btn-success" href="programs.php#workshops">Workshops</a>
       </div>
     </div>
     <?php include_once "footer.php" ?>
