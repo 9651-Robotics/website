@@ -33,10 +33,36 @@
       <h1 class="text-center">Club History</h1>
       <ul class="timeline">
         <li>
-          <div class="timeline-badge">1990</div>
+          <div class="timeline-badge">1993</div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title">Kevin Olds Integrates Robotics into Grade 11 and 12 Physics</h4>
+              <h4 class="timeline-title">Kevin Olds Starts the UCC Computer Club</h4>
+            </div>
+            <div class="timeline-body">
+              <p>
+                We the best. To succeed you must believe. When you believe, you will succeed. They don’t want us to eat. You smart, you loyal, you a genius. The weather is amazing, walk with me through the pathway of more success. Take this journey with me, Lion!
+              </p>
+            </div>
+          </div>
+        </li>
+        <li class="timeline-inverted">
+          <div class="timeline-badge">2004</div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">The UCC Robotics Club is officially formed.</h4>
+            </div>
+            <div class="timeline-body">
+              <p>
+                We the best. To succeed you must believe. When you believe, you will succeed. They don’t want us to eat. You smart, you loyal, you a genius. The weather is amazing, walk with me through the pathway of more success. Take this journey with me, Lion!
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-badge">1993</div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4 class="timeline-title">Kevin Olds Starts the UCC Computer Club</h4>
             </div>
             <div class="timeline-body">
               <p>
