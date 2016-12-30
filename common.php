@@ -1,7 +1,6 @@
 <?php
-/*
 	$username = "root";
-	$password = "";
+	$password = "root";
 	$host = "localhost";
 	$dbname = "robotics";
 
@@ -45,5 +44,4 @@
 	header('Content-Type: text/html; charset=utf-8');
 
 	session_start();
-	*/
 ?>

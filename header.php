@@ -16,7 +16,7 @@
         <li><a href="contact.php">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Member Center</a></li>
+        <li><a href="members.php">Member Center</a></li>
       </ul>
     </div>
   </div>
