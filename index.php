@@ -28,25 +28,25 @@
           <div class="col-sm-4">
             <div class="icon-big">
               <span class="fa fa-fw fa-wrench"></span>
-              <h3>Hardware</h3>
+              <h3>Engineering</h3>
             </div>
             <p class="lead">
-              We the best. To succeed you must believe. When you believe, you will succeed. They don’t want us to eat. You smart, you loyal, you a genius. The weather is amazing, walk with me through the pathway of more success. Take this journey with me, Lion!
+              Making awesome things with metal is super cool, and at Team 9651 we ensure that students are able to do so in a safe environment with great support. Students design and build their own VEX robots, learning about metal, gears, physics, along the way.
             </p>
           </div>
           <div class="col-sm-4">
             <div class="icon-big">
               <span class="fa fa-fw fa-terminal"></span>
-              <h3>Software</h3>
+              <h3>Programming</h3>
             </div>
             <p class="lead">
-              We the best. To succeed you must believe. When you believe, you will succeed. They don’t want us to eat. You smart, you loyal, you a genius. The weather is amazing, walk with me through the pathway of more success. Take this journey with me, Lion!
+              Computers are a great power, and a great responsibility: at Team 9651, we teach students both of these things. Students program our VEX Competition Robots, teach basic programming at Horizons Robotics, and often mentor each other at workshops.
             </p>
           </div>
           <div class="col-sm-4">
             <div class="icon-big">
               <span class="fa fa-fw fa-graduation-cap"></span>
-              <h3>Education</h3>
+              <h3>Teaching</h3>
             </div>
             <p class="lead">
               At Team 9651, our ultimate goal is to teach students about the wonders of technology, with an emphasis on robotics. There's something for everyone, including regular club meetings, our Horizons program, workshops, or guided and self-learning resources.

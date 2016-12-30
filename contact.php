@@ -46,7 +46,7 @@
             <img class="img-responsive img-circle" src="img/camran.jpg" />
             <h3>Camran Hansen</h3>
             <h4>Club Head</h4>
-            <a class="text-white icon-medium" href="https://github.com/fraggrenadekitten"><span class="fa fa-fw fa-github"></span></a>
+            <a class="text-white icon-medium" href="https://github.com/camranhansen"><span class="fa fa-fw fa-github"></span></a>
             <a class="text-white icon-medium" href="http://camranhansen.me/"><span class="fa fa-fw fa-desktop"></span></a>
           </div>
         </div>
@@ -61,8 +61,13 @@
           <div class="col-sm-9">
             <h2>Faculty Advisor</h2>
             <h3>Mr. Kevin Olds</h3>
+            <p class="lead">
+              Kevin Olds is the supervisor for Team 9651. He's worked at Upper Canada College for over 25 years, and has always been there to help students explore the sciences and technology. Currently, he teaches Computer Science at UCC. You can email him at <a href="mailto:kolds@ucc.on.ca">kolds@ucc.on.ca</a>.
+            </p>
           </div>
         </div>
+        <hr />
+        <h2 class="text-center">Check us out <a href="https://github.com/9651-Robotics">on GitHub <span class="fa fa-github"></span></a></h2>
       </div>
     </div>
     <?php include_once "footer.php" ?>
