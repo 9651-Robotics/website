@@ -1,6 +1,6 @@
 <?php
 	$username = "root";
-	$password = "root";
+	$password = "";
 	$host = "localhost";
 	$dbname = "robotics";
 
