@@ -98,6 +98,9 @@
           </div>
         </li>
       </ul>
+      <p>
+        Thank you to Ms. Jill Spellman, College Archivist​, for providing us with this information.
+      </p>
     </div>
     <?php include_once "footer.php" ?>
     <script src="js/google_analytics.js"></script>
