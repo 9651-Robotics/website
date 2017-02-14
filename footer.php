@@ -1,7 +1,7 @@
 <hr />
 <div class="container-fluid">
   <div class="text-center">
-    <h1><a href="#"><span class="fa fa-github"></span></a></h1>
+    <h1><a href="https://github.com/9651-Robotics/website/"><span class="fa fa-github"></span></a></h1>
     <p>
       This website was made by Team 9651 members.
     </p>
