@@ -29,7 +29,7 @@
             <a class="text-white icon-medium" href="https://jmace.me/"><span class="fa fa-fw fa-desktop"></span></a>
           </div>
           <div class="col-sm-6">
-            <img class="img-responsive img-circle" src="img/evan.png" />
+            <img class="img-responsive img-circle" src="img/evan.jpg" />
             <h3>Evan Boeckh</h3>
             <h4>Club Head</h4>
             <a class="text-white icon-medium" href="mailto:evan.boeckh@ucc.on.ca"><span class="fa fa-fw fa-envelope"></span></a>
