@@ -21,33 +21,18 @@
           <h2>Club Leadership</h2>
         </div>
         <div class="row text-center">
-          <div class="col-sm-3">
-            <img class="img-responsive img-circle" src="img/matt.png" />
-            <h3>Matthew Wang</h3>
-            <h4>Club Head</h4>
-            <a class="text-white icon-medium" href="https://github.com/malsf21/"><span class="fa fa-fw fa-github"></span></a>
-            <a class="text-white icon-medium" href="https://matthewwang.me/"><span class="fa fa-fw fa-desktop"></span></a>
-          </div>
-          <div class="col-sm-3">
-            <img class="img-responsive img-circle" src="img/jack.jpg" />
-            <h3>Jack Sarick</h3>
-            <h4>Club Head</h4>
-            <a class="text-white icon-medium" href="https://github.com/jacksarick/"><span class="fa fa-fw fa-github"></span></a>
-            <a class="text-white icon-medium" href="https://sarick.tech/"><span class="fa fa-fw fa-desktop"></span></a>
-          </div>
-          <div class="col-sm-3">
+          <div class="col-sm-6">
             <img class="img-responsive img-circle" src="img/john.png" />
             <h3>John Mace</h3>
             <h4>Club Head</h4>
             <a class="text-white icon-medium" href="https://github.com/j0hnmace/"><span class="fa fa-fw fa-github"></span></a>
             <a class="text-white icon-medium" href="https://jmace.me/"><span class="fa fa-fw fa-desktop"></span></a>
           </div>
-          <div class="col-sm-3">
-            <img class="img-responsive img-circle" src="img/camran.jpg" />
-            <h3>Camran Hansen</h3>
+          <div class="col-sm-6">
+            <img class="img-responsive img-circle" src="img/evan.png" />
+            <h3>Evan Boeckh</h3>
             <h4>Club Head</h4>
-            <a class="text-white icon-medium" href="https://github.com/camranhansen"><span class="fa fa-fw fa-github"></span></a>
-            <a class="text-white icon-medium" href="http://camranhansen.me/"><span class="fa fa-fw fa-desktop"></span></a>
+            <a class="text-white icon-medium" href="mailto:evan.boeckh@ucc.on.ca"><span class="fa fa-fw fa-envelope"></span></a>
           </div>
         </div>
       </div>
